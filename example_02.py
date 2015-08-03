@@ -1,3 +1,11 @@
+"""
+For more information, take a look at my blog
+
+https://cwchange.wordpress.com/2015/07/23/python-basic-web-login-script/
+
+"""
+
+
 import urllib, urllib2, cookielib
  
 ‪#‎create‬ a cookie file to store the cookie
